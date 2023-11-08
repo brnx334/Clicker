@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">minimalist\'s clicker</string>
+    <string name="app_database">app_database</string>
+    <string name="p_c">p/c - %1$s</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="shop">Shop</string>
+    <string name="setting">Setting</string>
+    <string name="sound">Sound</string>
+    <string name="dark_mode">Dark mode</string>
+</resources>
