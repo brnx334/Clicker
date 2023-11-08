@@ -21,8 +21,11 @@ Project is created with:
 * Oauth2
 
 ## Screenshots
-<img src="https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/dark_main.png" width="200" />
-<img src="https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/dark_shop.png" width="200" />
-<img src="https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/light_main.png" width="200" />
-<img src="https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/light_shop.png" width="200" />
+<div style="display: flex;">
+  <img src="https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/dark_main.png" width="200" />
+  <img src="https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/dark_shop.png" width="200" />
+  <img src="https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/light_main.png" width="200" />
+  <img src="https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/light_shop.png" width="200" />
+</div>
+
 
