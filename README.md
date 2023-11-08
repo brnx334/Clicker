@@ -22,6 +22,6 @@ Project is created with:
 
 ## Screenshots
 ![alt text](https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/dark_main.png)
-!(https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/dark_shop.png)
-!(https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/light_main.png)
-!(https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/light_shop.png)
+![alt text](https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/dark_shop.png)
+![alt text](https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/light_main.png)
+![alt text](https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/light_shop.png)
