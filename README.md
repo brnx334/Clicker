@@ -28,6 +28,7 @@ Dark and light mods:
   <img src="https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/light_main.png" width="200" />
   <img src="https://github.com/Bronx666/Clicker/blob/master/app/src/main/res/screenshots/light_shop.png" width="200" />
 </div>
+
 Authentication and leaderboard preview:
 
 <div style="display: flex;">
